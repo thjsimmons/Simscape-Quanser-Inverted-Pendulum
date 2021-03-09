@@ -8,3 +8,5 @@ scripts for the lab experiment.
 Folder 'calibrationFolder' contains the calibrationFile which is 
 accessed by the simulation. A calibration file is obtained via
 measurement in the lab. 
+
+Demos: https://www.youtube.com/user/joshcarstraw18/videos
