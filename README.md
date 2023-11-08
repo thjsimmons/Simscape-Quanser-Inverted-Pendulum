@@ -3,8 +3,7 @@ MATLAB/Simulink simulation of Quanser's Linear Inverted Pendulum. User enters S-
 ## Simulink Model 
 ![](simulation/ModelPics/outer.png?raw=true)
 
-## Simulation
-![](gifs/sim2.gif?raw=true)
+
 
 
 
